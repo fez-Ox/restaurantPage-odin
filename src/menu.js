@@ -18,6 +18,7 @@ function createMenuItem(menuGrid, name, desc) {
 
 function createMenuPage() {
   const contentDiv = document.querySelector("#content");
+  contentDiv.innerHTML = '';
 
   const menuGrid = document.createElement("div");
   menuGrid.className = "menu-grid";
