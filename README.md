@@ -1,3 +1,3 @@
 # restaurantPage-odin
 
-Let's hope this goes well.
+A Restaurant Page for TheOdinProject
